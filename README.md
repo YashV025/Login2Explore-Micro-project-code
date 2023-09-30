@@ -55,7 +55,9 @@ Benefits of using JsonPowerDB - * High Performance:
 * Community Support and Documentation:
     * JsonPowerDB benefits from an active community that provides support, tutorials, and documentation. Developers can find resources and assistance to help them effectively use the database for their projects.
 
-release of JsonPowerDB related code - <!DOCTYPE html>
+release of JsonPowerDB related code - 
+
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
